@@ -1,0 +1,10 @@
+my_string = input('Как Я могу к Вам обращаться? ')
+print (len(my_string))
+print (my_string, "Приветствуем Вас!")
+print ('Как Я могу к Вам обращаться?' .upper())
+print ('Как Я могу к Вам обращаться?' .lower())
+print ('Как Я могу к Вам обращаться?' .replace(" ", "" ))
+print ('Как Я могу к Вам обращаться?' .replace(" ", "Ё" ))
+print (my_string [0])
+print (my_string [-1])
+
